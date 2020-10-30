@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{pubs.html}
+= Publications 
+
+== Preprints
+
+== Conference Publications
+- [https://arxiv.org/abs/2010.12868 Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation]
+      | 
+      ([https://github.com/yongchanghao/multi-task-nat  Code])
+    \n
+  \*Yongchang Hao, \*Shilin He, Wenxiang Jiao, Zhaopeng Tu, Michael Lyu, Xing Wang \n
+  NAACL 2021, Short
+
